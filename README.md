@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Dipan Baniya
-## 🛠️ Aspiring Network & Cloud Professional | Full-Stack Explorer | Problem Solver | Cricket Enthusiast 🏏
+## 🛠️ Learner | Aspiring Network & Cloud Professional | Full-Stack Explorer | Problem Solver | Cricket Enthusiast 🏏
 
 ---
 
