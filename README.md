@@ -1,10 +1,9 @@
-# 👋 Hey there, I’m Dipan Baniya
+# 👋 Dipan Baniya
 ## 🛠️ Learner | Aspiring Network & Cloud Professional | Full-Stack Explorer | Problem Solver | Cricket Enthusiast 🏏
 
 ---
 
 ### 👨‍💻 Currently Working On:
-- Studying for **CCNA (Cisco Certified Network Associate)**
 - Exploring **AWS Cloud** certification
 - Sharpening skills in **networking, cloud, and full-stack development**
 
@@ -39,16 +38,13 @@
 
 ### 🌱 Mindset & Mission:
 - Learning **by doing** > learning by memorizing
-- Focused on building a **calm, capable, creative** tech career
-- Striving for balance between tech, health, and happiness
 - 💬 Favorite quote:  
-  > “Life is all about not knowing and then doing something anyways. All of life is like this. It never changes.” — *Mark Manson*
+  > “Life is all about not knowing and then doing something about it anyways. All of life is like this. It never changes.” — *Mark Manson*
 
 ---
 
-### 🏏 Outside Tech:
+### 🏏 Outside Tech :
 - Passionate about cricket: batting, fielding, game sense
-- Currently healing from a thumb injury (offseason grind mode)
 - Consistent gym work, stretching, and meditation practice
 
 ---
@@ -60,4 +56,4 @@
 ---
 
 Thanks for visiting my corner of the internet.  
-Here, I’m not chasing flash—I’m building skill, character, and peace. One step at a time. 🌿
+Here, I’m not chasing flash; I’m building skill, character, and peace. One step at a time. 🌿
