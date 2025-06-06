@@ -51,7 +51,7 @@
 
 ### 📫 Let’s Connect:
 - 💼 Open to internships & entry-level roles in IT, Dev, or Networking
-- 🔗 www.linkedin.com/in/dipan-baniya-030b782b3 | mailto:dipanbaniya34@gmail.com
+- 🔗 www.dbaniya.dev | www.linkedin.com/in/dipan-baniya-030b782b3 | mailto:dipanbaniya34@gmail.com
 
 ---
 
